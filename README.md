@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matheusinh02
+- 👋 Hi, I’m Matheus Pretti
 - 👀 I am interested in learning a lot from people and becoming a very good person.
 - 🌱 I'm currently learning Software Engineering
 - 💞️ I'm looking to collaborate on projects
