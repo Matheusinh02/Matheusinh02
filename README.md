@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matheus Pretti
 - 👀 I am interested in learning a lot from people and becoming a very good person.
-- 🌱 I'm currently learning Software Engineering
+- 🌱 I am currently studying Software Engineering.
 - 💞️ I'm looking to collaborate on projects
 - 📫 How to reach me? Send me a message here.
 
